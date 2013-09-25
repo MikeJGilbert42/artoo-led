@@ -1,8 +1,8 @@
 Artoo + Digispark = Fun
 =======================
 
-Messing around with the Digispark I got from GoGaRuCo, mostly to serve as info
-for anyone else who is experimenting with it.
+Messing around with the Digispark I got from GoGaRuCo.  
+Created this repo as info for anyone else who might also be experimenting with it.
 
 
 Stuff I've done so far
